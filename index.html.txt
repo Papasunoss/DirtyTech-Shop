@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DirtyTech-Shop</title>
+</head>
+<body>
+  <h1>Ласкаво просимо до DirtyTech-Shop!</h1>
+  <p>Ми пропонуємо найкращі комп'ютерні рішення.</p>
+</body>
+</html>
