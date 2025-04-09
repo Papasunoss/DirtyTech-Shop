@@ -26,7 +26,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url('images/background.jpg'); /"C:\Users\Admin\Downloads\computer.jpg"/
+  background-image: url('images/background.jpg'); /* Замінити на шлях до твого зображення */
   background-size: cover;
   background-position: center;
 }
